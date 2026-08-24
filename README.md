@@ -118,5 +118,3 @@ Through this project, I practiced:
 **Sciddhanto Sinha**
 
 B.Tech – Computer Science Engineering (AI & Analytics)
-
-[LinkedIn](https://www.linkedin.com/in/sciddhanto-sinha-2036a6264) • [GitHub](https://github.com/SciddhantoSinha)
