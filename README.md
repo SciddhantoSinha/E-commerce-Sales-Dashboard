@@ -59,11 +59,11 @@ These measures are used to calculate and display the dashboard's primary busines
 
 The dashboard provides an interactive view of:
 
-* **Total Sales**
-* **Total Profit**
-* **Total Quantity**
-* **Order Count**
-* **Profit Margin**
+* Total Sales
+* Total Profit
+* Total Quantity
+* Order Count
+* Profit Margin
 * Sales performance
 * Profitability analysis
 * Product-level analysis
