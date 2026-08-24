@@ -91,11 +91,7 @@ The **Sales** table acts as the central transactional table, while **Customers**
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of the completed Power BI dashboard here.
-
-```text
-screenshots/dashboard.png
-```
+![E-Commerce Sales Dashboard](Images/dashboard.png)
 
 ## 🚀 How to Use
 
